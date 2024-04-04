@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mahnoor26
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate with experienced Developers.
+- 👋 Hi, I’m Mahnoor Munir
+- 👀 I am a Web Developer
+- 💞️ I’m looking forward to collaborating with experienced Developers.
 - 📫 How to reach me https://www.linkedin.com/in/mahnoordev/
 
 <!---
